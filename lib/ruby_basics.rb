@@ -1,6 +1,6 @@
-division(12 / 2)
+def division = 12 / 2
   
-
+end
 
 def assign_variable("Bob")
   
